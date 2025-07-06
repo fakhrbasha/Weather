@@ -1,4 +1,4 @@
-# Weather App Using JS and API
+# Weather App Using
 
 A responsive weather forecast web application that allows users to search for any location and get real-time weather information. The project is built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and consumes data from a **Weather API**.
 ## 📌 Features
